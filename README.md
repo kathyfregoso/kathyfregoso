@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I'm Kathy 👋
+- :bust_in_silhouette: I'm a fullstack software engineer currently living in Los Angeles, CA.
+- :computer: Recently, I built [QMantis](https://github.com/qmantis), an open source observability tool for GraphQL APIs.
+- :microscope: Avid reader, lifelong philomath, and cat lover.
 
 <!--
 **kathyfregoso/kathyfregoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
